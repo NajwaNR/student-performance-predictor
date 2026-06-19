@@ -41,7 +41,7 @@ Logistic Regression dipilih sebagai model final karena memberikan performa lebih
 
 1. Clone repository ini:
    ```bash
-   git clone <link-repo-kamu>
+   git clone <link-repo>
    cd <nama-folder-repo>
    ```
 
