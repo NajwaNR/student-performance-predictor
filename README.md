@@ -72,7 +72,7 @@ Logistic Regression dipilih sebagai model final karena memberikan performa lebih
 
 ## Live Demo
 
-🔗 [Tautan demo online akan ditambahkan di sini setelah deploy ke Streamlit Community Cloud]
+🔗 https://najwanr-performance-predictor.streamlit.app/
 
 ## Disclaimer
 
