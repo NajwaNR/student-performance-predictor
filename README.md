@@ -41,8 +41,8 @@ Logistic Regression dipilih sebagai model final karena memberikan performa lebih
 
 1. Clone repository ini:
    ```bash
-   git clone <link-repo>
-   cd <nama-folder-repo>
+   git clone https://github.com/NajwaNR/student-performance-predictor.git
+   cd student-performance-predictor
    ```
 
 2. (Opsional, disarankan) buat virtual environment:
